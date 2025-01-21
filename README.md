@@ -1,6 +1,7 @@
 # UX Portfolio
 
-About me...
+About me: 
+My name is Tyler Wenke, im a 4th year computer science student at chico state university.
 
 ## UX Team Project
 
