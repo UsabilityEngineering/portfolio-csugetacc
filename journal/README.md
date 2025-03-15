@@ -11,10 +11,10 @@ I have two screens so I had to make OBS Studio recognize and format both screens
 
 ![](Screenshot_5.png)
 
-Once I had convinced OBS Studio to recognize both screens
-
 Once I had convinced OBS Studio to recognize both screens I had to get the audio mixer to balance correctly. While this isn't overwhelmingly difficult to do it has poor **feedback** which makes it difficult to tell when the audio is balanced to your liking. As far as I can tell the best way to determine if the audio is mixed correctly is to: make a recording -> play some audio and speak -> stop recording -> watch recording -> repeat until settings are correct. This can be a hassle and I wish there was a quick setup playback option available. 
 ![](Screenshot_7.png)
 
 Oh and did I mention you can easily *accidentally* pop windows out of the main OBS application? This could be a helpful feature to some users but it is very confusing for new users to suddenly have their one confusing application turned into several confusing applications. 
 ![](Screenshot_6.png)
+
+Overall OBS Studio is a very good free tool for screen recording, however it lacks clarity for new users which can make the initial process of creating a recording very difficult and slow.
