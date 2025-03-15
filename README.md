@@ -10,3 +10,4 @@ Coming soon.
 
 ## Tyler's Usability Engineering Journal
 
+* [Journal 1](journal/)
