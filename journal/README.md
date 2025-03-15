@@ -8,7 +8,9 @@ The first issue a new user runs into is setup. OBS Studio doesn't have a simple 
 Setup takes the user through a long list of settings, New users will need to specify a; recording device, audio device, file save location, and video quality preset before the application will allow the user to begin recording. There is no built in tutorial or explanation for any of these settings so if the user hits any snags they will need to find a source outside of the app to resolve any confusion. In my experience these *outside sources* will make sure to laugh at you for failing to understand any of the setup steps before helping. 
 
 I have two screens so I had to make OBS Studio recognize and format both screens accordingly. This goal lead me to this daunting list of options:
+
 ![](Screenshot_5.png)
+
 Once I had convinced OBS Studio to recognize both screens
 
 Once I had convinced OBS Studio to recognize both screens I had to get the audio mixer to balance correctly. While this isn't overwhelmingly difficult to do it has poor **feedback** which makes it difficult to tell when the audio is balanced to your liking. As far as I can tell the best way to determine if the audio is mixed correctly is to: make a recording -> play some audio and speak -> stop recording -> watch recording -> repeat until settings are correct. This can be a hassle and I wish there was a quick setup playback option available. 
